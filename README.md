@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 03-12-2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,7 +47,8 @@
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/6d9d4f33-ddff-44c6-91d3-6e4253729c88)
+![image](https://github.com/user-attachments/assets/a722b9b0-9c61-4ebc-b463-726124bc7c49)
+
 
 
 ### Name: Ashish S
